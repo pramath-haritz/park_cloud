@@ -73,3 +73,8 @@ y_pred= knn.predict(X_test)
 print(classification_report(y_test,y_pred))
 print(y_test[0].tolist())
 print(y_pred.tolist())
+
+def call():
+    return y_test[0].tolist()
+def call1():
+    return y_pred.tolist()
