@@ -1,1 +1,4 @@
-numpy scipy pandas Flask
+numpy 
+scipy 
+pandas 
+Flask
